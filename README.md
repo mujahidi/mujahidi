@@ -1,5 +1,4 @@
 ### Hi there, I'm Mujahid 👋 
-<br/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/theMrCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%themrcoder&screen_name=theMrCoder)
 
@@ -7,15 +6,6 @@
 
 - 🔭 I’m currently working on [ACF Typography plugin](https://github.com/mujahidi/acf-typography)
 - 🌱 I’m currently learning Frontity, Svelte, Flutter and more.
-
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="theMrCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/themrcoder)
-[<img align="left" alt="theMrCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/themrcoder/)
-
-<br/>
 
 ### Languages and Tools:
 
@@ -31,12 +21,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br/><br/>
 
-  <img align="left" alt="mujahidi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mujahidi&show_icons=true&hide_border=true" />
+[![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidi&hide=contribs&count_private=2&show_icons=true&theme=dark)](https://github.com/mujahidi/github-readme-stats)
 
-</details>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mujahidi&repo=acf-typography&theme=cobalt)](https://github.com/mujahidi/github-readme-stats)
+
+
 
 <!--
 **mujahidi/mujahidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
