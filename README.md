@@ -8,6 +8,7 @@
 - 🌱 Currently learning applied AI engineering and agentic system design
 - 🎓 I occasionally mentor and teach web development
 - 💬 Ask me about WordPress, PHP, front-end tooling, or AI agent development
+- 📫 Reach me: [mujahid@duck.com](mailto:mujahid@duck.com)
 
 ### Languages and Tools:
 
