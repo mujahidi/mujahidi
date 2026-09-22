@@ -1,11 +1,13 @@
 ### Hi there, I'm Mujahid 👋
 
-## Front-End Developer | Husband & Father
+## Full-Stack Developer | Transitioning into AI Engineering
 
-- 🔭 I'm currently working on [ACF Typography plugin](https://github.com/mujahidi/acf-typography)
-- 🌱 I'm currently learning and building with Astro and Cloudflare Pages
+- 🤖 I'm currently building AI agents (Claude, LangChain) and exploring AI image/video generation tooling on top of LLM APIs
+- 💻 Full-stack background across WordPress, PHP, and modern JS/TS (Astro, Cloudflare Pages)
+- 🔭 Maintainer of the [ACF Typography plugin](https://github.com/mujahidi/acf-typography)
+- 🌱 Currently learning applied AI engineering and agentic system design
 - 🎓 I occasionally mentor and teach web development
-- 💬 Ask me about WordPress, PHP, or front-end tooling
+- 💬 Ask me about WordPress, PHP, front-end tooling, or AI agent development
 
 ### Languages and Tools:
 
@@ -21,6 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Astro" width="26px" src="https://img.shields.io/badge/-BC52EE?style=flat&logo=astro&logoColor=white" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br/><br/>
 
